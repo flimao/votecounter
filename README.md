@@ -1,4 +1,4 @@
-# Financial Product Models
+# Vote Counter
 
 Models for counting votes for several contest models:
 
